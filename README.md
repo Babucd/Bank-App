@@ -1,3 +1,4 @@
+
 # Bank Management System
 
 Overview
@@ -21,7 +22,7 @@ A Java-based Bank Management System that uses core Object-Oriented Programming p
 - Libraries: Java Collections Framework
 
 ## Screenshots
-![Uploading Screenshot 2024-12-02 212257.png…]()
+![Screenshot 2024-12-02 212257](https://github.com/user-attachments/assets/2bd7abd7-082a-409a-b19f-8a9c92baa03f)
 
 ## Over view 
 https://github.com/user-attachments/assets/c4991f68-c307-44ad-88d7-580662626e4c
